@@ -19,3 +19,6 @@ organization intends to provide a playground, staffed by the best and brightest 
 members of the [/r/programming](http://programming.reddit.com/) community, where the new open source contributor can
 cut their teeth; contributing to real projects used in the real world, without fear of
 reproach or denial due to their beginner status.
+
+For example, to understand better how Git works, try forking this repository and editing the test file. If you
+commit the change and it works, you're ready to start programming!
